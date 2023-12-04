@@ -54,7 +54,6 @@ p {
 }
 
 /* Hero */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -137,7 +136,6 @@ p {
 }
 
 /* Aside */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -198,7 +196,6 @@ p {
 }
 
 /* Footer */
-
 .footer {
     padding: 30px;
     clear: both;
