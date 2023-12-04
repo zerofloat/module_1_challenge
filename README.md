@@ -18,3 +18,6 @@ Click the hyperlinks in the nav bar and use the scroll wheel to navigate through
 ## Credits
 
 Uses David MacDonald's technique to add aria-label and 'role="img"' to CSS background images [Alternate text for background images](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) to ensure main hero image has accessibility alt-text.
+
+## License
+MIT License
