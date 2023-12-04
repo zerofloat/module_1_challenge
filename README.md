@@ -3,9 +3,9 @@
 This repository aims to improve the functionality of the Horiseon Social Solutions, Inc. homepage, ensuring it meets web accessibility standards. The project makes use of semantic HTML and corresponding CSS selectors, internal hyperlinks using element IDs, and image alt-text throughout. 
 
 
-```md
+
 ![screenshot of Horiseon homepage nav bar and hero image](assets/images/horiseon-screenshot.png)
-```
+
 
 ## Installation
 
