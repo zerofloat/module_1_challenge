@@ -20,4 +20,9 @@ Click the hyperlinks in the nav bar and use the scroll wheel to navigate through
 Uses [David MacDonald's technique](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) to add aria-label and 'role="img"' to CSS background images to ensure main hero image has alt-text.
 
 ## License
+
 MIT License
+
+## GitHub Pages link
+
+[Horiseon | Your SEO & Digital Marketing Experts](https://zerofloat.github.io/module_1_challenge/)
