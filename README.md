@@ -4,7 +4,7 @@ This repository aims to improve the functionality of the Horiseon Social Solutio
 
 
 
-![screenshot of Horiseon homepage nav bar and hero image](assets/images/horiseon-screenshot.png)
+![screenshot of Horiseon homepage nav bar and hero image](assets/images/homepage-screenshot.png)
 
 
 ## Installation
